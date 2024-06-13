@@ -4,13 +4,13 @@ import Hook from "./hook";
 export default function Body() {
     return (
         <div className={styles.body}>
-            <div>We're <div className={styles.boldText}>Heu Learning</div>. We're building a network of English as a Second Language (ESL) programs that employ blended learning approaches to provide more effective English instruction at scale.</div>
+            <div>We`&apos;`re <div className={styles.boldText}>Heu Learning</div>. We`&apos;`re building a network of English as a Second Language (ESL) programs that employ blended learning approaches to provide more effective English instruction at scale.</div>
             <br></br>
-            <div>In other words, we're trying to...</div>
+            <div>In other words, we`&apos;`re trying to...</div>
             <br></br>
             <Hook />
             <br></br>
-            <div>26.5 million US residents don't know English,<sup className={styles.footnote}>1</sup> and while studies have demonstrated the transformative impact of ESL on the lives of non‑English speakers,<sup className={styles.footnote}>2</sup> fewer than 350 thousand access it.<sup className={styles.footnote}>3</sup></div>
+            <div>26.5 million US residents don`&apos;`t know English,<sup className={styles.footnote}>1</sup> and while studies have demonstrated the transformative impact of ESL on the lives of non‑English speakers,<sup className={styles.footnote}>2</sup> fewer than 350 thousand access it.<sup className={styles.footnote}>3</sup></div>
             <br></br>
             {/* <div>Our mission is to dramatically increase the <div className={styles.boldText}>supply</div> and <div className={styles.boldText}>effectiveness</div> of in‑person adult English instruction.</div> */}
             <div></div>

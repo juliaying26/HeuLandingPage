@@ -17,10 +17,6 @@ import ScrollAnimation from 'react-animate-on-scroll';
 
 export default function Home() {
 
-    useEffect(() => {
-      AOS.init();
-    }, []);
-
   return (
     <>
         <Head>
