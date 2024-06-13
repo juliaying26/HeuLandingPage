@@ -2,6 +2,7 @@
 .hook {
     padding-top: 1vw;
     padding-bottom: 1vw;
+    position: relative;
 }
 
 .hook_text {
@@ -15,7 +16,7 @@
     .hook_text {
         font-size: 10vw;
     }
-    .header_svg {
+    .hook_svg {
         position: absolute;
         width: 29.8vw !important;
         height: 18vw !important;
@@ -26,14 +27,14 @@
     .hook_text {
         font-size: 9vw;
     }
-    .header_svg {
+    .hook_svg {
         position: absolute;
         width: 27.1vw !important;
         height: 14vw !important;
     }
 }
 
-.header_svg {
+.hook_svg {
     position: absolute;
     width: 12vw;
     height: 10vw;
