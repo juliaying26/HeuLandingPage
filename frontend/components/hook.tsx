@@ -5,7 +5,7 @@ import ScrollAnimation from 'react-animate-on-scroll';
 export default function Hook() {
     return (
         <div className={styles.hook}>
-            <h1 className={styles.hook_text}>Teach more English better.</h1>
+            <h1 className={styles.hook_text}>Teach more English, better.</h1>
             {/* <ScrollAnimation animateIn="rollIn" duration="0.8" offset="0"><svg viewBox="0 0 478 225" fill="none" xmlns="http://www.w3.org/2000/svg" className={["circle", styles.header_svg].join(' ')}>
                 <path d="M165.946 36.018C83.648 41.475 2.43455 67.8824 9.87595 133.6C17.3174 199.317 157.689 222.87 264.682 212.852C371.676 202.835 445.849 188.444 466.728 111.244C487.606 34.0439 315.367 5.93389 197.879 9.75876" stroke="#69BBFE" stroke-width="18.1099" stroke-linecap="round"/>
             </svg></ScrollAnimation>

@@ -18,13 +18,13 @@ body {
         margin-right: 10vw;
     }
     .circle {
-        left: 41vw !important;
-        top: -1.5vw !important;
+        top: -1.7vw !important;
+        left: 41.2vw !important;
     }
     
     .squiggle {
-        left: 42.3vw !important;
         top: 14.4vw !important;
+        left: 43.6vw !important;
     }
 }
 
@@ -34,13 +34,13 @@ body {
         margin-right: 12vw;
     }
     .circle {
-        left: 39.5vw !important;
         top: -0.5vw !important;
+        left: 39.1vw !important;
     }
     
     .squiggle {
         top: 14.5vw !important;
-        left: 40.1vw !important;
+        left: 41.2vw !important;
     }
 }
 
@@ -56,15 +56,13 @@ ol {
 }
 
 .circle {
-    left: 13.45vw;
     top: -1.5vw;
+    left: 12.9vw;
 }
 
 .squiggle {
     top: 0.3vw;
-    left: 40.3vw;
-    /* left: 62.3vw;
-    top: 28.8vw; */
+    left: 40.9vw;
 }
 
 svg {
