@@ -51,6 +51,20 @@
     }
 }
 
+@media only screen and (min-width: 769px) and (max-width: 1025px) {
+    .body {
+        font-size: 3.2vw;
+        padding-top: 1.5vw;
+    }
+    .footnote {
+        font-size: 2.3vw;
+    }
+    .footnote_link {
+        font-size: 2.3vw;
+        line-height: 1.6;
+    }
+}
+
 .divider {
     color: grey;
     border-width: 0.0001vw;

@@ -34,6 +34,17 @@
     }
 }
 
+@media only screen and (min-width: 769px) and (max-width: 1025px) {
+    .hook_text {
+        font-size: 8.9vw;
+    }
+    .hook_svg {
+        position: absolute;
+        width: 27.1vw !important;
+        height: 14vw !important;
+    }
+}
+
 .hook_svg {
     position: absolute;
     width: 12vw;

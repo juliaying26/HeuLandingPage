@@ -29,6 +29,17 @@
     }
 }
 
+@media only screen and (min-width: 769px) and (max-width: 1025px) {
+    .footer {
+        margin-top: 5.5vw !important;
+        margin-bottom: 2vw !important;
+    }
+    .logo {
+        width: 100vw !important;
+        height: 30vw !important;
+    }
+}
+
 .logo {
     margin: 0;
     width: 100vw;

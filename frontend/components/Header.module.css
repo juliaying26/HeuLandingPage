@@ -37,6 +37,20 @@
   }
 }
 
+@media only screen and (min-width: 769px) and (max-width: 1025px) {
+  .header_text {
+    font-size: 10vw;
+    padding-top: 5vw;
+    padding-bottom: 3vw;
+  }
+  .line {
+    width: 14vw !important;
+    height: 4vw !important;
+    position: absolute;
+    top: 22.2vw !important;
+  }
+}
+
 .line {
   width: 7vw;
   height: 3vw;
