@@ -6,7 +6,7 @@ export default function Body() {
         <div className={styles.body}>
             <div>We&apos;re <div className={styles.boldText}>Heu Learning</div>. We&apos;re building a network of English as a Second Language (ESL) programs that employ blended learning approaches to provide more effective adult ESL instruction at scale.</div>
             <br></br>
-            <div>In other words, we&apos;re trying to...</div>
+            <div>In other words:</div>
             <br></br>
             <Hook />
             <br></br>
