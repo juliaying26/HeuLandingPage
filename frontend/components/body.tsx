@@ -10,7 +10,7 @@ export default function Body() {
             <br></br>
             <Hook />
             <br></br>
-            <div>26.5 million US residents don&apos;t know English,<sup className={styles.footnote}>1</sup> and while studies have demonstrated the transformative impact of ESL on the lives of non‑English speakers,<sup className={styles.footnote}>2</sup> fewer than 350 thousand access it.<sup className={styles.footnote}>3</sup></div>
+            <div>26.5 million US residents can&apos;t speak English,<sup className={styles.footnote}>1</sup> and while studies have demonstrated the transformative impact of ESL on the lives of non‑English speakers,<sup className={styles.footnote}>2</sup> fewer than 350 thousand access it.<sup className={styles.footnote}>3</sup></div>
             <br></br>
             {/* <div>Our mission is to dramatically increase the <div className={styles.boldText}>supply</div> and <div className={styles.boldText}>effectiveness</div> of in‑person adult English instruction.</div> */}
             <div></div>
