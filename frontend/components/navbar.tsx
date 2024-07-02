@@ -18,17 +18,5 @@ export default function Navbar() {
         </button>
       </a>
     </div>
-
-    // <div className={styles.navbar}>
-    //   <div className={styles.nav_links}>
-    //     <a href="mailto:contact@heulearning.org">Contact</a>
-    //     <div className={styles.nav_divider}></div>
-    //     <a href="">Roles</a>
-    //     <div className={styles.nav_divider}></div>
-    //     <div className={styles.donate}>
-    //       <a href="https://givebutter.com/heu" target="_blank">Donate</a>
-    //     </div>
-    //   </div>
-    // </div>
   );
 }
