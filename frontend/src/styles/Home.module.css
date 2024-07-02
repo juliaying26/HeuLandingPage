@@ -1,12 +1,10 @@
-
-.background{
+.background {
   max-height: 100%;
   max-width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 1vw;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .animation-in-progress {

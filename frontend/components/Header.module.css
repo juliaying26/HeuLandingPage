@@ -1,10 +1,12 @@
-
+.header {
+  position: relative;
+}
 
 .header_text {
   color: black;
   font-size: 5vw;
   font-weight: bold;
-  font-variation-settings: 'wght' 650;
+  font-variation-settings: "wght" 650;
   text-align: left;
   padding-bottom: 1.5vw;
 }
@@ -19,7 +21,7 @@
     width: 18vw !important;
     height: 5vw !important;
     position: absolute;
-    top: 27.5vw !important;
+    top: 23vw !important;
   }
 }
 
@@ -33,7 +35,7 @@
     width: 15vw !important;
     height: 4vw !important;
     position: absolute;
-    top: 23vw !important;
+    top: 18.4vw !important;
   }
 }
 
@@ -47,7 +49,7 @@
     width: 14vw !important;
     height: 4vw !important;
     position: absolute;
-    top: 22.2vw !important;
+    top: 17vw !important;
   }
 }
 
@@ -55,5 +57,5 @@
   width: 7vw;
   height: 3vw;
   position: absolute;
-  top: 10.3vw;
+  top: 5.4vw;
 }
